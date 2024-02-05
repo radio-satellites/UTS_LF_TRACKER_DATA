@@ -1,3 +1,4 @@
 Item	Description	Last seen	Reward	Name and Email
+Glasses,Clear, pink, partially squared glasses,A month ago in L132,Ramen,Amaya Kumar kumam@utschools.ca
 Presto Card,N/A,Gym,N/A,Ibrahim Rishu risib@utschools.ca
 Presto Card,Bent in an arc,N/A,LVLCUE-02-2023-2024 Caput XVIII answers,Yvette Wu wuyve@utschools.ca
