@@ -1,4 +1,3 @@
 Item	Description	Last seen	Reward	Name and Email
-ITEM, Nice description, gym, nice reward, good good
-ITEM, Nice description, gym, nice reward, good good
-ITEM, Nice description, gym, nice reward, good good
+Presto Card,N/A,Gym,N/A,Ibrahim Rishu risib@utschools.ca
+Presto Card,Bent in an arc,N/A,LVLCUE-02-2023-2024 Caput XVIII answers,Yvette Wu wuyve@utschools.ca
