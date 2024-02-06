@@ -1,6 +1,6 @@
 Item	Description	Last seen	Reward	Name and Email
 Presto Card,Bent in an arc,Gym stairs (L3),Candy,Ibrahim risib@utschools.ca
-Presto Card,N/A,N/A,LVLCUE-02-2023-2024 Caput XVIII answers,Yvette wuyve@utschools.ca
+Presto Card,N/A,N/A,N/A,Yvette wuyve@utschools.ca
 Glasses,Clear pink partially squared glasses,A month ago in L132,Ramen,Amaya kumam@utschools.ca
 Lipstick,Clinique Almost (Black Honey),Group Work Room,N/A,Alina zhaali@utschools.ca
 Macbeth book,Annotated rainbow sticky tab and my name inside,Room 136,N/A,Kelly liukel@utschools.ca
